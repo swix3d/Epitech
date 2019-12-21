@@ -1,0 +1,7 @@
+-lcsfml-graphics 
+
+-lcsfml-audio
+
+-lcsfml-window			 
+
+-lcsfml-system 
